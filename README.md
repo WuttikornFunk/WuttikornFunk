@@ -6,7 +6,7 @@
 ---
 
 - 🎓 I’m currently studying in my 3rd year at  **Srinakharinwirot University**
-- 💻 I’m passionate about **Flutter (Mobile)**, **AI/Deep Learning**, and **Full Stack Web**.
+- 💻 I’m passionate about **AI/Deep Learning**, and **Full Stack Web**.
 - 🚀 I enjoy turning complex ideas into working products
 
 ---
